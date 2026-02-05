@@ -1,0 +1,171 @@
+Duty of care
+For corporate duty of care, see Duty of care (business associations).
+Part of the common law series
+Tort law
+(Outline)
+Trespass to the person
+AssaultBatteryFalse imprisonmentIntentional infliction of emotional distress
+Property torts
+Trespass landchattelsConversion
+Dignitary torts
+AppropriationDefamation UnintentionalFalse lightInvasion of privacy Intrusion on seclusionBreach of confidenceAbuse of processMalicious prosecutionSexual torts Alienation of affectionsCriminal conversationSeductionBreach of promise
+Negligent torts
+Negligent infliction of emotional distressEmployment-relatedEntrustmentMalpractice legalmedical
+Principles of negligence
+Duty of care TrespassersLicenseesInviteesStandard of care Reasonable personProximate causeRes ipsa loquiturRestitutio ad integrumRescue doctrineDuty to rescueComparative responsibilityContributory negligenceAttractive nuisance
+Strict and absolute liability
+Product liabilityUltrahazardous activityDeep pockets
+Nuisance
+Public nuisanceRylands v Fletcher
+Economic torts
+ConspiracyRestraint of tradeInsurance bad faith (American law)FraudTortious interference
+Defences
+Assumption of riskConsentNecessityStatute of limitationsSelf-defense Defense of othersDefence of propertyShopkeeper's privilegeNeutral reportage
+Liability
+Intentional tortsLast clear chanceEggshell skullVicarious liabilityRespondeat superiorVolenti non fit injuriaEx turpi causa non oritur actioJoint and several liabilityMarket share liabilityTransferred intent
+Legal remedy
+Damages PunitiveSpecialIncidentalInjunctionTracingDetinueReplevinTrover
+Other topics in tort law
+Tort reform Non-economic damages capsQuasi-tortDelict (term used for torts in some civil and mixed legal systems)Conflict of tort lawsPrivate attorney generalClass action
+By jurisdiction
+AustraliaCanadaChinaEngland and WalesEuropean UnionIndiaJapanTaiwanUnited States
+Other common law areas
+ContractsCriminal lawEvidencePropertyWills, trusts, and estates
+icon Law portal
+vte
+
+City governments typically have a duty of care to repair and maintain sidewalks
+In tort law, a duty of care is a legal obligation that is imposed on an individual, requiring adherence to a standard of reasonable care to avoid careless acts that could foreseeably harm others, and lead to claim in negligence. It is the first element that must be established to proceed with an action in negligence. The claimant must be able to show a duty of care imposed by law that the defendant has breached. In turn, breaching a duty may subject an individual to liability. The duty of care may be imposed by operation of law between individuals who have no current direct relationship (familial or contractual or otherwise) but eventually become related in some manner, as defined by common law (meaning case law).
+
+Duty of care may be considered a formalisation of the social contract, the established and implicit responsibilities held by individuals/entities towards others within society. It is not a requirement that a duty of care be defined by law, though it will often develop through the jurisprudence of common law.
+
+Development of the general duty of care
+At common law, duties were formerly limited to those with whom one was in privity one way or another, as exemplified by cases like Winterbottom v. Wright (1842). In the early 20th century, judges began to recognize that the cold realities of the Second Industrial Revolution (in which end users were frequently several parties removed from the original manufacturer) implied that enforcing the privity requirement against hapless consumers had harsh results in many product liability cases. The idea of a general duty of care that runs to all who could be foreseeably affected by one's conduct (accompanied by the demolishing of the privity barrier) first appeared in the judgment of William Brett (later Lord Esher), Master of the Rolls, in Heaven v Pender (1883). Although Brett's formulation was rejected by the rest of the court, similar formulations later appeared in the landmark U.S. case of MacPherson v. Buick Motor Co. (1916) and, in the UK, in Donoghue v Stevenson (1932). Both MacPherson and Donoghue were product liability cases, and both expressly acknowledged and cited Brett's analysis as their inspiration.
+
+Scope
+Although the duty of care is easiest to understand in contexts like simple blunt trauma, it is important to understand that the duty can be still found in situations where plaintiffs and defendants may be separated by vast distances of space and time.
+
+For instance, an engineer or construction company involved in erecting a building may be reasonably responsible to tenants inhabiting the building many years in the future. This point is illustrated by the decision of the South Carolina Supreme Court in Terlinde v. Neely 275 S.C. 395, 271 S.E.2d 768 (1980), later cited by the Supreme Court of Canada in Winnipeg Condominium Corporation No. 36 v. Bird Construction Co. [1995] 1 S.C.R. 85:
+
+The plaintiffs, being a member of the class for which the home was constructed, are entitled to a duty of care in construction commensurate with industry standards. In the light of the fact that the home was constructed as speculative, the home builder cannot reasonably argue he envisioned anything but a class of purchasers. By placing this product into the stream of commerce, the builder owes a duty of care to those who will use his product, so as to render him accountable for negligent workmanship.
+
+Responsibility
+Although the idea of a general duty of care is now widely accepted, there are significant differences among the common law jurisdictions concerning the specific circumstances under which that duty of care exists. Obviously, courts cannot impose unlimited liability and hold everyone liable for everyone else's problems; as Justice Cardozo put it, to rule otherwise would be to expose defendants "to a liability in an indeterminate amount for an indeterminate time to an indeterminate class."[1] There must be some reasonable limit to the duty of care; the problem is where to set that limit.
+
+England
+Main article: Duty of care in English law
+Whether a duty of care exists depends firstly on whether there is an analogous case in which the Courts have previously held there to exist (or not exist) a duty of care. Situations in which a duty of care have previously been held to exist include doctor and patient, manufacturer and consumer,[2] and surveyor and mortgagor.[3] Accordingly, if there is an analogous case on duty of care, the court will simply apply that case to the facts of the new case without asking itself any normative questions.[4]
+
+If there is no similar case that the court will determine whether there is a duty of care by applying the three normative criteria the House of Lords set out in Caparo Industries plc v Dickman.[5] The criteria are as follows:
+
+Harm must be a "reasonably foreseeable" result of the defendant's conduct;[6][7][8][9]
+A relationship of "proximity" must exist between the defendant and the claimant;
+It must be "fair, just and reasonable" to impose liability.
+Australia
+The High Court of Australia has deviated from the English approach, which still recognises a proximity element. Rather, Australian law first determines whether the case at hand fits within an established category of case where a duty of care has been found.[10]: p 217  For example, occupiers of a premises automatically owe a duty of care to any person on their premises.[11]
+
+If this is not the case, then the plaintiff must prove that it was reasonably foreseeable that harm could result from the defendant's actions. If so, the Court then applies a "salient features" test to determine whether the plaintiff is owed a duty of care.[10] Some of the salient features which the Court considers in making this inquiry include:
+
+Whether imposition of a duty of care would lead to "indeterminate liability" – that is, it would interfere with the legitimate protection or pursuit of an individual's social or business interests.[10]: p 219–20 
+Whether imposition of a duty would constitute an unreasonable burden on individual autonomy.[10]: p 223–5 
+The degree of vulnerability of the plaintiff to the defendant's actions – their ability to guard against the harm.[10]: p 225–6 
+The degree of knowledge which the defendant had about the probability and likely magnitude of harm to the plaintiff.[10]: p 230–1 
+Special rules exist for the establishment of duty of care where the plaintiff suffered mental harm, or where the defendant is a public authority.[12]
+
+To establish a duty of care, the plaintiff has to satisfy the requirement of CLA Act ss 27–33. In light of this, a large number of individuals cannot claim injuries as well. Meanwhile, compared to the "No-Fault Compensation" system in New Zealand, the cost to claim injuries is much higher. In light of this, individuals especially the victims who lack knowledge or capability may choose not claim private nuisance after balancing the burden and outcomes. This view was affirmed in 1993 by Professor Regina Graycar, who commented that courts in Australia are reluctant to award damages for personal injuries.[13]
+
+In New South Wales, a plaintiff is able to recover for non-economic loss, including pain and suffering, loss of amenities/expectation of life and disfigurement, upon the severity of the loss being at least 15% of 'most extreme case'.[14] As of October 2016, NSW Attorney General, Gabrielle Upton, has updated the maximum amount of damages for non-economic loss from $594,000 to $605,000.[15]
+
+France
+On 27 March 2017, the French National Assembly adopted a law entitled “Devoir de vigilance des entreprises donneuses d'ordre”,[16] whose title has been translated into English as a "duty of vigilance" or "duty of care".[17]
+
+The law will oblige large French companies (companies with at least 5,000 staff in France or 10,000 staff within their combined French and foreign offices over two consecutive years)[18] to
+
+Establish and implement a diligence plan which should state the measures taken to identify and prevent the occurrence of human rights and environmental risks resulting from their activities, the activities of companies they control and the activities of sub-contractors and suppliers on whom they have a significant influence.[17]
+
+Switzerland
+
+Flag (in French) supporting the responsible business initiative.
+In Switzerland, a federal popular initiative named 'For responsible businesses – protecting human rights and the environment' was launched by a coalition of non-governmental organizations. It proposed a mechanism of public liability when activities of Swiss multinationals, or their subsidiaries, violate internationally recognised human rights and environmental standards.[19]
+
+On 29 November 2020, the responsible business initiative was accepted by 51% of voters, but rejected by a majority of cantons. The failure of the initiative leads to the entry into force of the legislative counter-project. The latter also introduces new due diligence obligations. Criminal fines can be imposed for failure to report (but nor for breaches of international law).[19]
+
+United States
+Because each of the 50 U.S. states is a separate sovereign free to develop its own tort law under the Tenth Amendment, there are several tests for finding a duty of care in United States tort law.
+
+Foreseeability test
+In several states, like Florida and Massachusetts, the sole test is whether the harm to the plaintiff from the defendant's actions was foreseeable.[20][21]
+
+Multi-factor test
+The Supreme Court of California, in a majority opinion by Justice David Eagleson, criticized the idea that foreseeability, standing alone, constitutes an adequate basis on which to rest the duty of care: "Experience has shown that . . . there are clear judicial days on which a court can foresee forever and thus determine liability but none on which that foresight alone provides a socially and judicially acceptable limit on recovery of damages."[22]
+
+Drawing upon the work of scholars such as Fowler V. Harper, Fleming James Jr., and William Prosser, California has developed a complicated balancing test consisting of multiple factors which must be carefully weighed against one another to determine whether a duty of care exists in a negligence action.
+
+California Civil Code section 1714 imposes a general duty of ordinary care, which by default requires all persons to take reasonable measures to prevent harm to others.[23] In the 1968 case of Rowland v. Christian, the court held that judicial exceptions to this general duty of care should only be created if clearly justified based on the following public-policy factors:
+
+the foreseeability of harm to the injured party;
+the degree of certainty he or she suffered injury;
+the closeness of the connection between the defendant's conduct and the injury suffered;
+the moral blame attached to the defendant's conduct;
+the policy of preventing future harm;
+the extent of the burden to the defendant and the consequences to the community of imposing a duty of care with resulting liability for breach;
+and the availability, cost, and prevalence of insurance for the risk involved.[24]
+A 1997 case added to this:
+
+the social utility of the defendant's conduct from which the injury arose.[25]
+Contemporary California appellate decisions treat the Rowland decision as the "gold standard" for determining the existence of a legal duty of care, and generally refer to the criteria for determining the existence of a legal duty of care as the Rowland factors.[26]
+
+In California, the duty inquiry focuses on the general category of conduct at issue and the range of foreseeable harm it creates, rather than the specific actions or injuries in each case.[27] Appellate lawyer Jeffrey Ehrlich persuaded the California Supreme Court to clarify the central importance of this distinction with its 2011 decision in Cabral v. Ralphs Grocery Co. which requires "no duty" rulings to be based on categorical public-policy rules that can be applied to a range of cases, without reference to detailed facts.[28] By requiring courts to apply the Rowland factors at this high level of factual generality, the Cabral decision preserved the role of juries in determining whether the defendant breached its duty of care based on the unique circumstances of each case.[23]
+
+A majority of U.S. states have adopted some kind of multi-factor analysis based on the work of Prosser and others.[29] Some states simply copied California's factors but modified them, like Michigan (which deleted the insurance factor and never picked up the social utility factor),[30] while others developed different lists of factors, such as this one from Tennessee:
+
+the foreseeability of the harm or injury;
+the possible magnitude of the potential harm or injury;
+the importance or social value of the activity engaged in by the defendant;
+the usefulness of the conduct to the defendant;
+the feasibility of alternative conduct;
+the costs and burdens associated with the alternative conduct;
+the relative usefulness of the alternative conduct;
+and the relative safety of the alternative conduct.[31]
+A 2011 law review article identified 43 states that use a multifactor analysis in 23 various incarnations; consolidating them together results in a list of 42 different factors used by U.S. courts to determine whether a duty of care exists.[32]
+
+The Tennessee Court of Appeal has also recently followed the California Supreme Court's lead by citing Cabral for the proposition that duty determinations must be made at the highest level of factual generality.[33]
+
+Measurement
+Main articles: Standard of care and Reasonable person
+Once a duty exists, the plaintiff must show that the defendant breached it. This is generally treated as the second element of negligence in the United States. Breach involves testing the defendant's actions against the standard of a reasonable person, which varies depending on the facts of the case. For example, physicians will be held to reasonable standards for members of their profession, rather than those of the general public, in negligence actions for medical malpractice.
+
+In turn, once the appropriate standard has been found, the breach is proven when the plaintiff shows that the defendant's conduct fell below or did not reach the relevant standard of reasonable care.[34]
+
+However, it is possible that the defendant took every possible precaution and exceeded what would have been done by any reasonable person, yet the plaintiff was injured. If that is the case, then as a matter of law, the duty of care has not been breached and the plaintiff cannot recover in negligence.[35][36] This is the key difference between negligence and strict liability; if strict liability attaches to the defendant's conduct, then the plaintiff can recover under that theory regardless of whatever precautions were taken by the defendant.
+
+Examples
+Products
+Product liability was the context in which the general duty of care first developed. Manufacturers owe a duty of care to consumers who ultimately purchase and use the products. In the case of Donoghue v Stevenson [1932] AC 562 of the House of Lords, Lord Atkin stated:
+
+My Lords, if your Lordships accept the view that this pleading discloses a relevant cause of action you will be affirming the proposition that by Scots and English law alike a manufacturer of products, which he sells in such a form as to show that he intends them to reach the ultimate consumer in the form in which they left him with no reasonable possibility of intermediate examination, and with the knowledge that the absence of reasonable care in the preparation or putting up of the products will result in an injury to the consumer's life or property, owes a duty to the consumer to take that reasonable care.
+
+Land
+Main article: Premises liability
+
+A notice in the Republic of Ireland informing potential entrants on premises of limits to the duty of care
+At common law, in the case of landowners, the extent of their duty of care to those who came on their premises varied depending on whether a person was classified as a trespasser, licensee, or invitee. This rule was eventually abolished in some common law jurisdictions. For example, England enacted the Occupiers Liability Act 1957. Similarly, in the 1968 landmark case of Rowland v. Christian,[24] the Supreme Court of California replaced the old classifications with a general duty of care to all persons on one's land, regardless of their status. After several highly publicized and controversial cases, the California Legislature enacted a statute in 1985 that partially restored immunity to landowners from some types of lawsuits from trespassers.[37]
+
+Colorado's highest court adopted the Rowland unified duty of care analysis in 1971. The resulting explosion of lawsuits against Colorado landowners caused the state legislature to enact the Colorado Premises Liability Act in 1986, which enacted a cleaned-up statutory version of the common law classifications and simultaneously expressly displaced all common law remedies against landowners in order to prevent state courts from again expanding their liability.[citation needed]
+
+In the Republic of Ireland, under the Occupiers' Liability Act, 1995, the duty of care to trespassers, visitors and "recreational users" can be restricted by the occupier; provided reasonable notice is given, for which a prominent notice at the usual entrance to the premises usually suffices.[38]
+
+Business
+See also: Business judgment rule
+In business, "the duty of care addresses the attentiveness and prudence of managers in performing their decision-making and supervisory functions."[39] The "business judgment rule presumes that directors (and officers) carry out their functions in good faith, after sufficient investigation, and for acceptable reasons. Unless this presumption is overcome, courts abstain from second-guessing well-meaning business decisions even when they are flops. This is a risk that shareholders take when they make a corporate investment."[39]
+
+Cybersecurity
+See also: Reasonable person
+With increased cyber threats and attacks, legislation has evolved to incorporate how to establish responsibility in the event of a breach. Key terms in privacy bills and laws cite 'reasonable security' or 'duty of care' as a requirement of organizations when managing sensitive data.[40] If a company manages private information such as social security numbers (SSN) or personal health information (PHI), it is their responsibility to practice 'duty of care' and establish 'reasonable controls' to protect this data. For example, if a hacker group attacks a bank with ransomware, and they exfiltrate all their client data - who is responsible for potential wire fraud, identity theft, and costs for litigation? Businesses are required to demonstrate they have implemented a security strategy based on their risk profile, as it is specific for each working environment. Legislation is outlining specific roles for executives in order to carry out 'duty of care' properly, as in the case of the Colorado Privacy Act. It states, "A controller shall take reasonable measures to secure personal data during both storage and use from unauthorized acquisition. The data security practices must be appropriate to the volume, scope, and nature of the personal data processed and the nature of the business."[41] The New York Privacy Act (NYPA)[42] also proposed a 'duty of care' for risk assessments by controllers regarding personal data.
+
+The common theme in establishing duty of care is the assessment of risk,[43] the likelihood of these risks occurring, and how they would impact all parties potentially affected by those risks. Companies must comply with these new requirements of their duty to for reasonable security as it applies to their working landscape - to manage risk appropriately or be liable for the harm they could cause.
+
+With compliance requirements of 'reasonable security' to protect data, there is also an increase in more data breach litigation examining if organizations practiced reasonable and appropriate security controls. Recent case settlements include Herff Jones and DNA Diagnostics in which these organizations must implement an information security program to manage risks based on documented frameworks such as Duty of Care Risk Analysis (DoCRA), CIS RAM, NIST, ISO 27005, or The Sedona Conference Commentary on a Reasonable Security Test.[44]
+
+Digital platforms
+A review of the Online Safety Act in Australia has recommended establishing a 'Digital duty of care' requiring large digital platforms and tech companies to proactively prevent harms for their users.[45] The Australian Government subsequently announced in 2024 that it would legislate a Digital duty of care

@@ -1,0 +1,142 @@
+NEGLIGENCE UNDER LAW OF TORTS
+Introduction:
+Law of torts has evolved from the English common law. Thus, theories concerning negligence were followed and molded by Indian courts in light of the principles of justice, equity and good conscience. The word "negligence" has been derived from the Latin word negligentia, which means 'failure to pick up' or 'neglect'.
+
+Negligence means the act of being careless. It is the basic principle of the law of torts. It refers to a person's failure to take that amount of care that would be expected of a normal reasonable person, which then leads to hurting someone. The fundamental principles of negligence law take into account how a party protects another person from harm for not behaving responsibly. On the other side, an understanding of these principles would assist in determining whether or not a claim for negligence can be pursued and what necessary evidence would substantiate that claim.
+
+Definitions:
+
+Negligence is the conduct of a person or entity failing to exercise reasonable care to prevent injury or damage to another. In legal terms, it is a breach of a duty imposed by law that causes damage in any form.
+
+Definitions by various jurists:
+Sir Frederick Pollock:
+
+The well-known legal scholar Sir Frederick Pollock defines Negligence is the breach of a legal duty to take care which results in damage to the plaintiff.
+
+W. Page Keeton:
+
+He is one of the most influential scholars of tort law, defines negligence as:
+
+“Negligence is the failure to act as a reasonably prudent person would, or taking action that a reasonable and prudent person would not perform."
+
+H.L.A. Hart:
+
+H.L.A. Hart, states that Negligence consists in the failure to exercise the level of care required, considering the foreseeable risks of harm that one's actions or omissions may impose on others.
+
+Essentials:
+ Duty of Care
+
+The plaintiff needs to establish that the defendant owed him a legal duty of care. This duty depends on the relationship between parties. There exists a duty of care on the part of the defendant towards the claimant. Such a duty may be implicit from the occurrence of a legal obligation to act in such a way as not to cause foreseeable harm to another.
+
+For example, a driver owes a duty of care to other road users to drive carefully. Similarly, in professional areas such as medicine, professionals owe their patients a duty of care to act with due professional conduct.
+
+ Breach of Duty
+
+There should have been some breach of duty by the defendant because of failing to meet the standard of care required in a specific situation. The standard is usually what a reasonably prudent person would do under similar circumstances. The plaintiff must prove that the defendant breached the duty of care owed to him.
+
+In this regard, a driver can be proven to be in breach of duty if he ran through a red light.
+
+The plaintiff must be able to show a direct cause and effect relationship between the defendant's breach of duty and the resulting harm. It involves both the actual and legal causations.
+
+Factual causation, often based on the "but for" test, needs one to prove that the harm wouldn't have happened but for the actions of the defendant.
+
+Legal causation, or proximate causation, asks whether the harm was reasonably foreseeable as a result of the defendant's breach.
+
+It must be shown that the injury resulting from a negligent act is attributable at law due to the breach of duty by the defendant.
+
+For Example: A road traffic accident occasioned by a negligent act must be brought directly within the course of the accident from the defendant's breach of duty.
+
+ Damage
+
+The claimant must have suffered actual harm or damage due to the breach. The plaintiff should be able to prove that they actually suffered damage or injury due to the failure of the defendant to exercise due care. Damages could be physical injuries, financial losses, and even psychological trauma. Negligence cannot be proven without actual harm evidence.
+
+ Foreseeability
+
+The concept of foreseeability is one of the cardinal fundamental building blocks in proving both the duty owed by one party to another and the causation of a harm inflicted. The kind of harm, occurring in any case, must be a foreseeable consequence of the action of the defendant. This basically means that the defendant ought to have foreseen with due reason that his actions were likely to cause injury to a class of persons of whom the plaintiff was one.
+
+For example: In the case of a defective product resulting from a manufacturer, it has to be foreseeable that this defect has the real potential of causing injury to consumers.
+
+ Reasonable Person Standard:
+
+The defendant's action is compared to the standard of a reasonable person. This objective standard tests whether the defendant acted with the amount of care that a reasonably prudent person in similar circumstances would exercise. This test of the reasonable person standard primarily aids in identifying whether the defendant was negligent.
+
+Defenses
+ Contributory Negligence
+
+Contributory negligence arises when a plaintiff's own negligence is the direct cause of the harm that has been caused to him. In this case, he is prevented from recovering any amount of damage from the defendant because he is held responsible for his own injury.
+
+The legal maxim volenti non fit iniuria which means where a person voluntarily accepts a risk, he cannot recover any kind of damage against that taken risk.
+
+Defense can be availed when;
+
+ The plaintiff, in the exercise of reasonable care, could have avoided the consequences of the defendant's negligence.
+
+ The defendant could not, in the exercise of ordinary care, have avoided the adverse effects of the plaintiff's negligence.
+
+ There was equal lack of reasonable care on both plaintiff's and defendant's parts and thus the plaintiff cannot get any damages from the defendant.
+
+Contributory negligence, the onus of proving contributory negligence in the first instance lies upon the defendant. If he cannot prove, then no duty is cast upon the plaintiff to disprove the contributory negligence.
+
+Butterfield v. Forrester (1809)11 East. 60
+
+In this case the court, basing on this principle, held that the plaintiff could not recover damages since one of the contributing factors of the accident was plaintiff's negligence riding at an excessive speed.
+
+Act of God
+
+An "Act of God" is a natural, irresistible force, over which no human agency can exert control, that is unforeseeable even upon the exercise of all reasonable care and foresight. Such as earthquakes, flood, natural calamity. One would not hold the defendant liable should the injury or death be caused by a natural calamity, for instance, provided he is able to prove that such was an Act of God.
+
+Nichols v. Marsland (1875)2 Ex. D 1
+
+The defendant herein had on his land several artificial lakes, a structure and maintenance of which no negligence was proved. On account of an exceptionally heavy rainfall, the reservoirs overflowed and caused destruction of four country bridges. It was held that the defendant was not liable since the overflow had been due to the Acts of God.
+
+Inevitable accident
+
+An unavoidable accident, also referred to as an inevitable accident, is an event that could not have been prevented through the use of ordinary care, caution, or skill. In other words, such an accident is physically unavoidable.
+
+Brown v. Kendal (1859) 1850 WL 4572
+
+In this case, the plaintiff and defendant's dogs were fighting with each other. The defendant trying to separate the animals accidentally hit the plaintiff, who was standing nearby, in his eye. The court held the injury to the plaintiff as an inevitable accident, and hence, the defendant was not liable.
+
+Res ipsa loquitur
+
+Introduction:
+It is a Latin term which means "the thing speaks for itself." It is a doctrine of law related to torts, wherein negligence can be inferred from an accident or injury, in the absence of direct evidence as to whether the defendant acted negligently.
+
+The doctrine of res ipsa loquitur applies in situations when the exact cause of an injury is undetermined, while the nature of the incident suggests that negligence is the most probable cause. This doctrine mainly facilitates a plaintiff in proving the negligence where the direct proof of wrong act on the part of the defendant is not brought forward.
+
+Elements of Res Ipsa Loquitur:
+
+The Accident Must Be of the Sort The accident or injury must be of a type that would not normally take place in the absence of negligence. It should be of unusual nature. If, for example, a surgical instrument was left inside a patient after the operation, it would show negligence because these cases are normally caused by misfeasance.
+
+The Defendant Must Have Had Control Over the Instrumentality or Circumstance. It should be proven that the defendant was in control of the instrumentality or circumstance, which implies a position where the defendant was under an obligation to have prevented the incident.
+
+The Plaintiff Should Not Have Contributed to the Injury, there has to be the absence of direct evidence regarding the specific cause of the accident.
+
+Liability:
+
+Where res ipsa loquitur is established, it creates an inference of negligence and hence shifts the burden of the proof to the defendant. The shift in the burden then requires the defendant to adduce evidence to rebut the claim of negligence or to show that the accident happened due to a cause other than negligence.
+
+Case law:
+
+The doctrine of res ipsa loquitur is derived from the case of Byrne v. Boadle2 Hurl. & Colt. 722, which was tried in 1863. The plaintiff, as he was walking down the street, suffered an injury from a falling barrel of flour from a second-story window of a warehouse. In the course of trial, plaintiff's counsel argued that the facts of the accident spoke for themselves to show the negligence of the warehouse, since no other reasonable explanation would suffice to explain plaintiff's injury.
+
+Application:
+
+The res ipsa loquitur doctrine is applied very frequently in a number of contexts such as:
+
+Medical Malpractice:
+
+It is possible when one leaves a surgical instrument inside the patient or commits some detectable mistake; thus, such acts usually involve negligence.
+
+Product Liability:
+
+When injury is sustained due to malfunction of the product, and the nature of that malfunction suggests that the defect usually results from negligence, application of res ipsa loquitur may be appropriate.
+
+Motor Vehicle Accidents:
+
+A motor vehicle accident, when it is the type of accident that would most probably be caused by negligence - for instance, a car rolling over on the highway in the absence of any apparent external intervention, res ipsa loquitur will apply.
+
+Conclusion:
+Res ipsa loquitur does not of itself establish negligence but rather an inference of negligence such that unless the plaintiff can provide more specific evidence the defendant may show there was no negligence or the accident was caused by an unforeseen and unavoidable factor.
+
+In brief, res ipsa loquitur is a significant doctrine in the law of tort, in that it helps plaintiffs in those cases where direct proof of negligence might be absent, but the nature of the accident strongly implies negligence. This then shifts the evidentiary burden onto the defendant, who shall have to refute such a presumption of negligence.

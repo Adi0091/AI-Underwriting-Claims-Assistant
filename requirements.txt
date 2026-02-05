@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+
+openai
+tiktoken
+
+pinecone-client
+
+pypdf
+langchain-text-splitters
+
+ragas
+numpy
+scikit-learn
+
