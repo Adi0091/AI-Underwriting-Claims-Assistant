@@ -20,10 +20,11 @@ def index_embeddings(embeddings_path: Path):
             "id": record["chunk_id"],
             "values": record["embedding"],
             "metadata": {
-                "document_type": record["metadata"]["document_type"],
-                "source_file": record["metadata"]["source_file"],
-                "page_number": record["metadata"]["page_number"]
-            }
+    "document_type": record["metadata"]["document_type"],
+    "source_file": record["metadata"]["source_file"],
+    "page_number": record["metadata"]["page_number"],
+    "chunk_text": record["chunk_text"]
+}
         })
 
         if len(vectors) >= BATCH_SIZE:

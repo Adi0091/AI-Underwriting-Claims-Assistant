@@ -3,6 +3,7 @@ uvicorn
 pydantic
 python-dotenv
 groq
+langchain_groq
 
 openai
 tiktoken
@@ -10,6 +11,7 @@ langchain_huggingface
 sentence_transformers
 
 pinecone
+pinecone_client
 
 pypdf
 langchain-text-splitters

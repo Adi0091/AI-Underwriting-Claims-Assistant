@@ -9,9 +9,11 @@ GENERIC_PHRASES = [
     "usually"
 ]
 
+def is_empty_answer(answer) -> bool:
+    if not isinstance(answer, str):
+        return True
+    return not answer.strip()
 
-def is_empty_answer(answer: str) -> bool:
-    return not answer or not answer.strip()
 
 
 def is_overly_generic(answer: str) -> bool:
