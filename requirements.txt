@@ -5,6 +5,8 @@ python-dotenv
 
 openai
 tiktoken
+langchain_huggingface
+sentence_transformers
 
 pinecone-client
 
