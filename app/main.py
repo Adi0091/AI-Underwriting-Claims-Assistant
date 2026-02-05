@@ -7,5 +7,9 @@ app = FastAPI(
     version="1.0.0"
 )
 
+@app.get("/")
+def home():
+    return {"message": "This is home Page."}
+
 app.include_router(health_router)
 app.include_router(query_router)
