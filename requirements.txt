@@ -8,7 +8,7 @@ tiktoken
 langchain_huggingface
 sentence_transformers
 
-pinecone-client
+pinecone
 
 pypdf
 langchain-text-splitters
